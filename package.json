@@ -1,0 +1,30 @@
+{
+  "name": "govuk-notify-comms",
+  "version": "0.1.0",
+  "description": "Common communications component utilising GOV.UK Notify to send notifications using different templates.",
+  "main": "app/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtasalem/govuk-notify-comms.git"
+  },
+  "keywords": [
+    "govuk-notify"
+  ],
+  "author": "Rana Salem (github.com/rtasalem)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtasalem/govuk-notify-comms/issues"
+  },
+  "homepage": "https://github.com/rtasalem/govuk-notify-comms#readme",
+  "dependencies": {
+    "@azure/service-bus": "7.9.5",
+    "@hapi/hapi": "21.3.10",
+    "dotenv": "16.4.5",
+    "joi": "17.13.3",
+    "notifications-node-client": "8.2.1"
+  }
+}

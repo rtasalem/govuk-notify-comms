@@ -1,0 +1,6 @@
+test-output
+node_modules
+*.tgz
+.vscode
+.env
+.DS_Store
