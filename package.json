@@ -1,6 +1,6 @@
 {
   "name": "govuk-notify-comms",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A communications component that utilises GOV.UK Notify to send out email notifications using a single template.",
   "homepage": "https://github.com/rtasalem/govuk-notify-comms",
   "main": "app/index.js",
